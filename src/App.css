@@ -1,0 +1,24 @@
+.a{
+    position: relative;
+    bottom: 400px;
+    left: 150px;
+    font-size: 35px;
+}
+.s{
+    position: relative;
+    bottom: 390px;
+    /* left:0px; */
+    font-size: 70px;
+    font-family: PlayfairDisplay-Bold;
+font-size: 60px;
+line-height: 1.1;
+text-transform: uppercase;
+}
+.d{
+    position: relative;
+      bottom: 360px;
+      left:150px;
+      font-size: 20px;
+      background-color: rgb(74, 219, 235);
+      color: white;
+  }

@@ -1,0 +1,20 @@
+.sss{
+    filter:contrast(40%)
+}
+
+.ff{
+    position: relative;
+    bottom: 130px;
+}
+.s{
+    /* position: relative; */
+    /* bottom: 130px; */
+}
+.fff{
+    position: relative;
+    bottom : 300px;
+    /* left: 500px; */
+    margin-right: 400px;
+    
+
+}
